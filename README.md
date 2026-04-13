@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project aims to predict employee attrition using machine learning techniques. It helps organizations understand why employees leave and how to reduce attrition.
+Employee Attrition Prediction using Weka. Includes data cleaning, visualization, model building, and analysis of overfitting and underfitting using real HR dataset.
 
 ## 🛠️ Tools Used
 
@@ -44,5 +44,4 @@ Detailed report is available in the project_report.pdf file.
 ## 🚀 Conclusion
 
 This project helps in understanding employee behavior and provides insights to reduce attrition.
-# Employee-Attrition-Prediction
-Employee Attrition Prediction using Weka. Includes data cleaning, visualization, model building, and analysis of overfitting and underfitting using real HR dataset.
+
