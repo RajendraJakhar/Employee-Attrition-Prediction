@@ -39,7 +39,7 @@ Employee Attrition Prediction using Weka. Includes data cleaning, visualization,
 
 ## 📄 Report
 
-Detailed report is available in the project_report.pdf file.
+Detailed report is available in the Employee_Attrition_Prediction_Rajendra_Kumar - Google Docs.pdf file.
 
 ## 🚀 Conclusion
 
